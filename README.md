@@ -15,29 +15,27 @@ Once you have a result that looks roughly like "raw-lines-example.mp4", you'll n
 
 Let's try the one with the solid white lane on the right first ...
 
-https://youtu.be/Q4gycJoBKdo
-[![](https://img.youtube.com/vi/Q4gycJoBKdo/0.jpg)](https://youtu.be/Q4gycJoBKdo)
+
+https://youtu.be/M9eXh16gSxM
+
+[![](https://img.youtube.com/vi/M9eXh16gSxM/0.jpg)](https://youtu.be/M9eXh16gSxM)
 
 
 **At this point, if you were successful you probably have the Hough line segments drawn onto the road, but what about identifying the full extent of the lane and marking it clearly as in the example video (P1_example.mp4)?  Think about defining a line to run the full length of the visible lane based on the line segments you identified with the Hough Transform.  Modify your draw_lines function accordingly and try re-running your pipeline.**
 
 Now for the one with the solid yellow lane on the left. This one's more tricky!
 
+https://youtu.be/Q4gycJoBKdo
 
-<video width="960" height="540" controls>
-  <source src="yellow.mp4">
-</video>
+[![](https://img.youtube.com/vi/Q4gycJoBKdo/0.jpg)](https://youtu.be/Q4gycJoBKdo)
 
 
 ## Optional Challenge
 
 https://youtu.be/Wb_AaCSJJAo
+
 [![](https://img.youtube.com/vi/Wb_AaCSJJAo/0.jpg)](https://youtu.be/Wb_AaCSJJAo)
 
-
-<video width="960" height="540" controls>
-  <source src="extra.mp4">
-</video>
 
 
 
